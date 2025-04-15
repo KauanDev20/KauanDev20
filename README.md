@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kauan - @KauanDev20.
 - 👀 I’m interested in learn programming.
 - 🌱 I’m currently studying Software Engineering.
-- 💞️ I’m looking to collaborate on intern in the area to further develop my knowledge.
+- 💞️ I’m looking to collaborate on intern in the area, to further develop my knowledge.
 - 📫 Reach me via linkedin or email.
 - ⚡ Curiosities about me: I love technology and I'm always willing to learn.
 
